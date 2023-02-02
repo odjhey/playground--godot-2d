@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="godot-tutorial-2d"
-run/main_scene="res://Label.tscn"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [display]
